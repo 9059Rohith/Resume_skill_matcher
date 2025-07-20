@@ -6,7 +6,7 @@
 
 ---
 
-## **📋 Table of Contents**
+📋 Table of Contents**
 
 - [🌍 Real-World Problem](#-real-world-problem)
 - [🚀 Production Solution](#-production-solution)
