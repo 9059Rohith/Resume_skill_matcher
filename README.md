@@ -2,7 +2,7 @@
 
 **🎯 Real-World Career Intelligence Platform for Modern Job Markets**
 
-**Live Demo:(https://astonishing-smakager-155165.netlify.app/) | **Hackathon:** SuPrathon 2K25 | **Production Ready:** Enterprise-Grade Application
+Live Demo:(https://astonishing-smakager-155165.netlify.app/) | **Hackathon:** SuPrathon 2K25 | **Production Ready:** Enterprise-Grade Application
 
 ---
 
