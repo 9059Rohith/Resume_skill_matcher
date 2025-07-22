@@ -38,7 +38,7 @@ Live Demo:(https://astonishing-smakager-155165.netlify.app/) | **Hackathon:** Su
 - **Universities & Colleges** - 500+ institutions need placement optimization tools
 - **Corporate Training Centers** - Bootcamps and certification programs requiring ROI measurement
 - **Individual Professionals** - 10M+ job seekers globally seeking data-driven career guidance
-- **HR Departments** - Recruitment teams needing objective candidate assessment tools
+
 
 ---
 
