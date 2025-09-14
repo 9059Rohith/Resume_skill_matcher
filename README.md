@@ -1,4 +1,4 @@
-# **SkillSync - AI-Powered Resume Intelligence Platform**
+# **SkillSync - AI-Powered Resume Intelligence Platform
 
 **🎯 Real-World Career Intelligence Platform for Modern Job Markets**
 
